@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Omer Atagun</h1>
 <p>
 
-- 🔭 I’m currently working with LeanIX alongside with eDominations
+- 🔭 I’m currently working with SAP LeanIX
 
 - 📝 I write about kubernetes, rust, typescript and others in my [blog](https://omeratagun.net)
 
